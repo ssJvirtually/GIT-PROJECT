@@ -1,1 +1,4 @@
 added text into the file
+
+
+made changes in the git directly
